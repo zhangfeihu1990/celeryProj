@@ -12,7 +12,8 @@ int main()
         fprintf(stderr, "Couldnot get host infomation\n");
         exit(1);
      }
-    printf("new line"); 
+     printf("add new");
+     printf("new line"); 
      printf("Computer hostname is %s\n", computer);
      exit(0);
 }
